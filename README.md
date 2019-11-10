@@ -1,0 +1,1 @@
+# Trash-segregation-using-CNN
